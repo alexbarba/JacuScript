@@ -1,0 +1,23 @@
+#comentario
+/*comentario de varias
+lineas*/
+importame "fkdskglkdg"
+#real = 324.53;
+#entero = 234;
+#car = "f";
+
+funcion main(){
+  real a=32.123;
+  b = 33;
+  funcion c(){
+    
+    si (b<a){
+    regresa b;
+    }sino (b>a){
+    regresa a;
+    }deplano {
+    regresa a+b;
+    }
+
+  }
+}

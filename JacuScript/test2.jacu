@@ -1,0 +1,7 @@
+entero gcd (entero u, entero v) {
+	si (v == 0) 
+	  regresa u;
+	sino (h=4)
+	  regresa 4;
+}
+

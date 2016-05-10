@@ -1,0 +1,36 @@
+#comentario
+/*comentario de varias
+lineas*/
+importame "fkdskglkdg";
+real a = 31.32;
+entero b= 32;
+car h ="f";
+
+
+a =  4;
+
+funcion main){
+  real a=32.123;
+  b = 33;
+  funcion c(){
+    
+    si (b<a){
+    regresa b;
+    }sino (b>a){
+    regresa a;
+    }deplano {
+    regresa a+b;
+    }
+    divide(14, 2);
+    hola("hola mundo");	
+  }
+}
+
+
+funcion hola(car mensaje){
+	#imprime mensaje;
+}
+
+funcion divide(real a, real b){
+	regresa a/b;
+}
